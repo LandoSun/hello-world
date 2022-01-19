@@ -1,3 +1,3 @@
 # hello-world
 test
-push pr
+push
